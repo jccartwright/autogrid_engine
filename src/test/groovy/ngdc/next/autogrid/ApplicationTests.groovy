@@ -1,4 +1,4 @@
-package next.autogrid
+package ngdc.next.autogrid
 
 import org.junit.Test
 import org.junit.runner.RunWith
